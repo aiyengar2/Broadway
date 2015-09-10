@@ -1,0 +1,25 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.header {
+	padding: 20px;
+}
+
+.header li {
+	display: inline;
+  color: white;
+  padding: 10px;
+}
+
+.jumbotron {
+	background: url(https://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg) center center fixed;
+  background-size: cover;
+}
+
+.main a {
+	text-decoration: none;
+  background: darkgrey;
+  color: white;
+  padding: 10px 20px;
+}
